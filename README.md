@@ -1,4 +1,4 @@
-![Blog Application](public/blog.png)
+![Blog Application](blog.png)
 
 # Daily Journal Blog Application
 
