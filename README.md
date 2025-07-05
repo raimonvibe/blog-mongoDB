@@ -1,3 +1,5 @@
+![Blog Application](public/blog.png)
+
 # Daily Journal Blog Application
 
 A responsive blog application built with Node.js, Express, EJS, and MongoDB.
